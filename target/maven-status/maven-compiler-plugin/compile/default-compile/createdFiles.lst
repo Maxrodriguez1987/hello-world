@@ -1,0 +1,6 @@
+io/openshift/booster/service/GreetingProperties.class
+io/openshift/booster/service/TomcatShutdown.class
+io/openshift/booster/BoosterApplication.class
+io/openshift/booster/service/Greeting.class
+io/openshift/booster/service/ShutdownController.class
+io/openshift/booster/service/GreetingController.class
